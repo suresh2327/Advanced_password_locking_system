@@ -18,8 +18,8 @@ With the advent of increasingly sophisticated systems operating at the edge, ded
 ## 🏗️ System Architecture
 The top-level view comprises the `password_lock_system` module, internally instantiating the combinational password verification logic alongside a robust Sequential State Counter (`password_attempt_counter`). 
 
-### 📐 WOKK FLOW
-![Working Algorithm](\01_SPECIFICATIONS\Work_flow.png)
+### 📐 Workflow
+![Working Algorithm](01_SPECIFICATIONS/Work_flow.png)
 
 
 ## 🛠️ VLSI Design Flow Used
