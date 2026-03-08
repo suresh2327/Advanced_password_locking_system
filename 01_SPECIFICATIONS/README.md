@@ -45,5 +45,4 @@ The system functions as a robust hardware lock. The default password stored inte
   - If NOT `is_correct` and `cnt == 3` (N-1): clears `access`, maintains `alarm=1`.
   - Else: increments `cnt`, clears `access`, maintains `alarm=0`.
 
-## 📐 Block Diagram
-![Block Diagram](placeholder.png)
+
